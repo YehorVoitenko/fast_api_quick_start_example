@@ -1,5 +1,4 @@
-# user_game_project
-<h1>instruction:</h1>
+<h1>Instruction:</h1>
 <hr>
 <h4>1. Write in the terminal:</h4> 
 
@@ -13,7 +12,7 @@
 
 <p><i>- Run usergame_project/Dockerfile</i></p>
 
-<h4>3. Run a site</h4> 
+<h4>3. Run a site:</h4> 
 
 <p><i>Write in search bar in browser:</i></p>
 
